@@ -1,0 +1,14 @@
+{
+  "name": "treesitter-dyn",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "nan": "^2.18.0"
+  }
+}
